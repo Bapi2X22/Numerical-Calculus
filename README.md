@@ -1,12 +1,12 @@
 # Numerical-Calculus
 Numerical Differentiation and integration.
-<br>
+<br />
 1. Forward differentiation
-<br>
+<br />
 2. Central differentiation
-<br>
+<br />
 3. Backward ifferentiation
-<br>
+<br />
 4. Trapezoidal Method
-<br>
+<br />
 5. Simpson Method
